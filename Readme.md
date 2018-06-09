@@ -13,6 +13,7 @@
 
 - vue - VuePress theme for official Vue projects - [npm](https://www.npmjs.com/package/vuepress-theme-vue)
 - [yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - vuepress-theme-yubisaki - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
+- [meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - vuepress-theme-meteorlxy - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
 
 
 ### Plugins
