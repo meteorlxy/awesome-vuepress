@@ -1,8 +1,5 @@
-<p align="center">
-  <br>
-  <img width="400" src="./logo.png" alt="logo of awesome-vuepress repository">
-  <br>
-  <br>
+<p style="text-align: center;">
+  <img width="300" src="./logo.png" alt="logo of awesome-vuepress repository">
 </p>
 
 ## Awesome Vuepress
