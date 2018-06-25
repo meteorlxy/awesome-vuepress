@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
   <img width="300" src="./logo.png" alt="logo of awesome-vuepress repository">
 </p>
 
