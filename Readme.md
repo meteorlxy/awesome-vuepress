@@ -40,3 +40,4 @@
 - [vuesax](https://lusaxweb.github.io/vuesax) - Vuesax Frontend Vue Components
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
 - [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
+- [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
