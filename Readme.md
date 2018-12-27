@@ -12,14 +12,14 @@
 
 ### Official Vuepress Themes
 
-- [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default) - theme-default for vuepress - [npm](https://www.npmjs.com/package/@vuepress/theme-default)
-- [@vuepress/theme-vue](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-vue) - VuePress theme for official Vue projects
-- [@vuepress/theme-blog](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-blog) - theme-blog for vuepress
+- [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default) - Vuepress default theme - [npm](https://www.npmjs.com/package/@vuepress/theme-default)
+- [@vuepress/theme-vue](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-vue) - Vuepress theme for official Vue projects
+- [@vuepress/theme-blog](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-blog) - Vuepress default blog theme
 
 ### Community
 
-- [yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - vuepress-theme-yubisaki - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
-- [meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - vuepress-theme-meteorlxy - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
+- [vuepress-theme-yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - Yubisaki's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
+- [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - Meteorlxy's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
 
 ## Plugins (1.x+)
 
