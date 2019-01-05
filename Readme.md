@@ -21,7 +21,9 @@
 - [vuepress-theme-yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - Yubisaki's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
 - [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - Meteorlxy's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
 
-## Plugins (1.x+)
+## Plugins
+
+> Vuepress v1.0+ supports Plugins
 
 ### Official Vuepress Plugins
 
