@@ -1,3 +1,5 @@
+> __Deprecated__: This project is no longer mantained, as the maintainer of Vuepress @ulivz has created another repo for the same purpose: https://github.com/ulivz/awesome-vuepress
+
 <p align="center">
   <img width="300" src="./logo.png" alt="logo of awesome-vuepress repository">
 </p>
